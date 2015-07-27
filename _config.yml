@@ -1,0 +1,35 @@
+name: Kenneth Ho
+description:
+meta_description: "Kenneth Ho"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 10
+baseurl: /
+domain_name:
+# google_analytics: 'UA-XXXXXXXX-X'
+# disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+# url:            'http://your-blog-url.example.com'
+author:         'Kenneth Ho'
+authorTwitter:  'kennethho_'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
