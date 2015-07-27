@@ -4,6 +4,12 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Hi, I'm Kenneth.
+
+I was born and raised in San Jose, CA. I went to school at UC San Diego, where I received a degree in Bioengineering.
+
+I'm currently a student at Hack Reactor, a software engineering career accerlerator in San Francisco, CA.
+
+I created this site to keep track of my own adventures in programming and to share what I've learned.
 
 {% include footer.html %}
