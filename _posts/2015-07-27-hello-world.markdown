@@ -1,7 +1,7 @@
 ---
 title:  "Hello World"
 date:   2015-07-27 10:18:00
-description:
+description: This blog's humble beginnings
 ---
 
 At the beginning of 2015, I decided to take the leap. Prior to 2015 I had been studying programming in my free time through various online-resources ([Udacity][udacity], [Coursera][coursera], [Codecademy][codecademy], etc). After a lot of learning, I started to entertain the thought of being able to do this kind of thing full-time. However, I felt that studying after work and on weekends was not getting me there.
