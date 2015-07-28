@@ -7,16 +7,15 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Hello World</title>
         
         
-          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;At the beginning of 2015, I decided to take the leap. Prior to 2015 I had been studying programming in my free time through various online-resources (&lt;a href=&quot;https://www.udacity.com&quot;&gt;Udacity&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/&quot;&gt;Coursera&lt;/a&gt;, &lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;, etc). After a lot of learning, I started to entertain the thought of being able to do this kind of thing full-time. However, I felt that studying after work and on weekends was not getting me there.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 02:18:00 -0800</pubDate>
-        <link>/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/2013/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 27 Jul 2015 03:18:00 -0700</pubDate>
+        <link>/2015/hello-world/</link>
+        <guid isPermaLink="true">/2015/hello-world/</guid>
       </item>
     
   </channel>
