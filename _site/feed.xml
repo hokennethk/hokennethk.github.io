@@ -7,6 +7,18 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Adding Aliases To Your Terminal</title>
+        
+        
+          <description>&lt;p&gt;There are many different tools available to you as a developer that can help speed up your workflow. This post focuses on adding aliases to my bash profile, which has helped speed up my workflow.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 07 Aug 2015 07:28:00 -0700</pubDate>
+        <link>/2015/adding-aliases-to-your-terminal/</link>
+        <guid isPermaLink="true">/2015/adding-aliases-to-your-terminal/</guid>
+      </item>
+    
+      <item>
         <title>Hello World</title>
         
         
