@@ -12,4 +12,8 @@ I'm currently a student at Hack Reactor, a software engineering career accerlera
 
 I created this site to keep track of my own adventures in programming and to share what I've learned.
 
+### Site
+
+Based on [Kactus](https://github.com/nickbalestra/kactus) theme.
+
 {% include footer.html %}
